@@ -82,8 +82,7 @@ Then open `notebooks/EDA_Analysis.ipynb` to explore the analysis.
 
 Live NAV data from [mfapi.in](https://www.mfapi.in/), a free public API for Indian mutual fund data. Supplementary datasets provided as part of the Bluestock Fintech capstone.
 
-## Author
+---
 
-**Nabila Tajrin Bristy**
-Data Analyst Intern, Bluestock Fintech
-M.Sc. Mathematics & Data Science
+**License**  
+MIT © [Nabila Tajrin](https://github.com/nabilatajrin)
